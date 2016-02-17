@@ -1,3 +1,4 @@
+//mytest
 void main()
 {
 	print("%s","mytest");
